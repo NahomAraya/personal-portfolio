@@ -33,7 +33,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Connect with Me</Slogan>
+          <Slogan>Built with NextJS</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="github.com/NahomAraya">
