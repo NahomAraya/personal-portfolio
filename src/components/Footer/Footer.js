@@ -10,7 +10,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Contact</LinkTitle>
-          <LinkItem href="tel:314-343-3432">Yodahe Zemichael</LinkItem>
+          <LinkItem>Yodahe Zemichael</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
@@ -22,16 +22,16 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Contact</LinkTitle>
-          <LinkItem href="tel:314-343-3432">Bereker G.Hiwot</LinkItem>
+          <LinkItem >Bereket G.Hiwot</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="+251 91 145 1088">
+          <LinkItem href="tel:+251 91 145 1088">
           +251 91 1695831
           </LinkItem>
         </LinkColumn>
       </LinkList>
-      <SocialIconsContainer>
+      <SocialIconsContainer> 
         <CompanyContainer>
           <Slogan>Built with NextJS</Slogan>
         </CompanyContainer>
