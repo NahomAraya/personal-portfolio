@@ -41,4 +41,5 @@ export const TimeLineData = [
   { year: 'Nov 2021', text: 'Built a queue management system for Burayu Land Administration', },
   { year: 'Sept 2022', text: 'Deployed a research ethics review system for Ministry of Eductaion', },
   { year: 'Oct 2022', text: 'Built a queue management system for Ethiopost', },
+  { year: 'Dec 2022', text: 'Started working at National ID as a UI/UX developer', },
 ];
